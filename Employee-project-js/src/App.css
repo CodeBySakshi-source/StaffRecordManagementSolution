@@ -5,9 +5,9 @@ body, html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: linear-gradient(135deg, #c6d0d1);
   color: #1a1313;
-  background-image:image-set("D:\Employee icons\image 1.jpg");
+  /* background-image:image-set("D:\Employee icons\image 1.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 100%; */
 }
 
 /* Container styling */
@@ -30,7 +30,7 @@ body, html {
   box-shadow: 0 10px 20px rgba(85, 95, 138, 0.3);
   padding: 30px 35px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  background-image: image-set("D:\Employee icons\details.jpg");
+  /* background-image: image-set("D:\Employee icons\details.jpg"); */
   
 
 }
@@ -54,7 +54,7 @@ body, html {
 /* Form labels */
 label {
   font-weight: 600;
-  color:white;/* #3b3b3b; */
+  color:blue;/* #3b3b3b; */
   display: block;
   margin-bottom: 8px;
   font-size: 1.1rem;
